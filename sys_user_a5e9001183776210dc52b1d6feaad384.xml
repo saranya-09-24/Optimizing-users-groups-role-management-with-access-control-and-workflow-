@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-09-17 06:03:29">
+<sys_user action="INSERT_OR_UPDATE">
+<active>true</active>
+<avatar/>
+<building display_value=""/>
+<calendar_integration>1</calendar_integration>
+<city/>
+<company display_value=""/>
+<cost_center display_value=""/>
+<country/>
+<date_format/>
+<default_perspective display_value=""/>
+<department display_value=""/>
+<edu_status>faculty</edu_status>
+<email>bob@gmail.com</email>
+<employee_number/>
+<enable_multifactor_authn>false</enable_multifactor_authn>
+<failed_attempts/>
+<federated_id>IyAYlWTloa+RuHJkr4JbtuFPYu8iknKleUZh8O4tz68=</federated_id>
+<first_name>bob</first_name>
+<gender/>
+<home_phone/>
+<internal_integration_user>false</internal_integration_user>
+<introduction/>
+<last_login/>
+<last_login_device/>
+<last_login_time/>
+<last_name>p</last_name>
+<last_password/>
+<ldap_server display_value=""/>
+<location display_value=""/>
+<locked_out>false</locked_out>
+<manager display_value=""/>
+<middle_name/>
+<mobile_phone/>
+<name>bob p</name>
+<notification>2</notification>
+<password_needs_reset>false</password_needs_reset>
+<phone/>
+<photo/>
+<preferred_language/>
+<roles/>
+<schedule display_value=""/>
+<source/>
+<state/>
+<street/>
+<sys_class_name>sys_user</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-04 04:42:22</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a5e9001183776210dc52b1d6feaad384</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-04 04:42:22</sys_updated_on>
+<time_format/>
+<time_zone/>
+<title/>
+<user_name>Bob</user_name>
+<user_password/>
+<vip>false</vip>
+<web_service_access_only>false</web_service_access_only>
+<zip/>
+</sys_user>
+</unload>
